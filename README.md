@@ -1,5 +1,5 @@
 # dudarizzo
-Me chamo Maria Eduarda Rizzo da Silva :funny
+Me chamo Maria Eduarda Rizzo da Silva 
 Estudante do Colégio Estadual Branca da Mota Fernandes;
 Estou no primeiro ano do ensino médio;
 Estou estudando por meio do alura;
