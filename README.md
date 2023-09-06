@@ -9,7 +9,7 @@
 - _Minhas comidas preferidas são 🍔🍕_
 - _Eu amo doces🍨🍫_
 - _Estudante do Colégio Estadual Branca da Mota Fernandes;_
-- _Moro na cidade de Maringá📍_
+- _Moro na cidade de Maringá_📍
 - _quero seguir carreira de medica veterinária🐕🐈‍⬛🐎🦒🐑🐐_
 - _Estou no primeiro ano do ensino médio;📚📒🖋️_
 - _eu amo viajar;🏖️🏞️_
