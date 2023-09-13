@@ -17,3 +17,6 @@
 - _Estou me desenvonvolvendo na linguagem Scratch e JavaScript;_
 - _Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos na disciplica de Pensamento Conputacional;_
 - _Meus melhores projetos são_:
+https://scratch.mit.edu/projects/853236623/
+https://editor.p5js.org/maria.rizzo.silva/full/iFAvi1p0W
+https://scratch.mit.edu/projects/848457202/
