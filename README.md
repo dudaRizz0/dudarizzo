@@ -8,7 +8,7 @@
 - _Eu amo doces🍨🍫_
 - _Estudante do Colégio Estadual Branca da Mota Fernandes;_
 -  Moro na cidade de Maringá📍
-- _quero seguir carreira de médica veterinária🐕🐈‍⬛🐎🦒🐑🐐_
+- _quero seguir carreira de médica veterinária🐕🐎🐑🐐_
 - _Estou no primeiro ano do ensino médio;📚📒🖋️_
 - _Estou estudando por meio do alura;_
 - _Estou me desenvonvolvendo na linguagem Scratch e JavaScript;_
